@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Lisa</first_name>
+	<last_name>Imai</last_name>
+	<phone_number>07039</phone_number>
+	<notes>Bandori</notes>
+</contact>
+<contact>
+	<first_name>Mika</first_name>
+	<last_name>Jougasaki</last_name>
+	<phone_number>346</phone_number>
+	<notes>Im@s</notes>
+</contact>
+<contact>
+	<first_name>Shiki</first_name>
+	<last_name>Ichinose</last_name>
+	<phone_number>346 765</phone_number>
+	<notes>Imas</notes>
+</contact>
+</contacts>
